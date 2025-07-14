@@ -1,4 +1,4 @@
-# 🛍️ Django E-Commerce Website-Local_Store
+# 🛍️ Django E-Commerce Website Local_Store
 
 Welcome to my **E-Commerce Website** built with the Django framework! This project is designed as a fully functional online shopping platform, featuring user authentication, product listings, shopping cart, order management, and a smooth checkout process.
 
@@ -27,7 +27,7 @@ Welcome to my **E-Commerce Website** built with the Django framework! This proje
 ---
 
 ###  Project Structure
-django-ecommerce/
+Local_Store/
 │
 ├── ecommerce/            # Main project settings
 ├── store/                # E-commerce app (products, cart, orders)
