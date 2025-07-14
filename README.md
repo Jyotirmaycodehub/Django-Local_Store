@@ -26,9 +26,30 @@ Welcome to my **E-Commerce Website** built with the Django framework! This proje
 
 ---
 
-## 🚀 Getting Started
+###  Project Structure
+django-ecommerce/
+│
+├── ecommerce/            # Main project settings
+├── store/                # E-commerce app (products, cart, orders)
+├── templates/            # HTML templates
+├── static/               # Static files (CSS, JS, images)
+├── db.sqlite3            # SQLite database
+├── manage.py             # Django management script
+└── requirements.txt      # Project dependencies
 
-### 1. Clone the repo
-```bash
-git clone https://github.com/yourusername/django-ecommerce.git
-cd django-ecommerce
+---
+  
+###  Future Improvements
+✅ Add product reviews & ratings
+
+✅ Add real payment gateway integration
+
+✅ Add user order history
+
+✅ Improve UI/UX
+
+✅ Add coupons and discounts system
+
+---
+### Developer: Jyotirmay 🧠
+📧 Email: [jyotirmay1999das@gmail.com]
