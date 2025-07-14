@@ -51,5 +51,5 @@ Local_Store/
 ✅ Add coupons and discounts system
 
 ---
-### Developer: Jyotirmay 🧠
+### Developer: Jyotirmay Das
 📧 Email: [jyotirmay1999das@gmail.com]
